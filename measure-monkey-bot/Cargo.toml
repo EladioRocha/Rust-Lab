@@ -1,0 +1,11 @@
+[package]
+name = "measure-monkey-bot"
+version = "0.1.0"
+authors = ["Eladio Rocha Vizcaino <2983321-EladioRocha@users.noreply.gitlab.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+autogui = "0.4.0"
+winapi = "0.3.9"
