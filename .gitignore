@@ -4,3 +4,4 @@ todo.txt
 Cargo.lock
 ..gitignore.un~
 .gitignore~
+.vscode/
