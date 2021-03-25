@@ -1,6 +1,0 @@
-target/
-debug/
-todo.txt
-Cargo.lock
-..gitignore.un~
-.gitignore~
